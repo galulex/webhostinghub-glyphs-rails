@@ -1,4 +1,4 @@
-# WebHostingHub Glyphs + Rails [![Gem Version](https://badge.fury.io/rb/webhostinghub-glyphs-rails.png)](http://badge.fury.io/rb/webhostinghub-glyphs-rails)
+# WebHostingHub Glyphs + Rails [![Gem Version](https://badge.fury.io/rb/webhostinghub-glyphs-rails.png)](http://badge.fury.io/rb/webhostinghub-glyphs-rails) [![endorse](http://api.coderwall.com/galulex/endorsecount.png)](http://coderwall.com/galulex)
 
 With SASS and fonts from [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/), `webhostinghub-glyphs-rails` is a gem to integrate WebHostingHub Glyphs to your Rails application.
 
