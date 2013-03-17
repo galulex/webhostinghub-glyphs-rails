@@ -1,3 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rake'
+# Specify your gem's dependencies in webhostinghub-glyphs-rails.gemspec
+gemspec
+
+group :test do
+  gem 'rake'
+end
